@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with ultimate MEV sniper bot | volume-spike-detection + front-running, the #1 MEV sniper bot. Includes volume-spike-detection and front-running for a faster
 
 
 
